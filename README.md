@@ -1,6 +1,11 @@
 # full_cycle3.0
 Repositório de Desafios do Full Cycle 3.0
 
+## Desafio #1 - Desafio go
+Imagem docker com 'Full Cycle Rocks' em Golang utilizando menos de 2MB.
+```
+docker run --rm dmarteleto/codeeducation
+```
 
 Desafio #2 
 
